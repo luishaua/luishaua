@@ -1,7 +1,7 @@
 # Olá!!! 🌟
 
 
-Meu nome é Luis Renato Haua, eu sou um Back-end Developer em constante desenvolvimento, atulamente sou apenas um estudante, mas estou sempre com as portas abertas para novas oportunidades! <img src = "https://media.tenor.com/L4TD4MWFy40AAAAj/kirby.gif" width="40px"/>
+Meu nome é Luis Renato Haua, eu sou um Back-end Developer em constante desenvolvimento, atualmente sou apenas um estudante, mas estou sempre com as portas abertas para novas oportunidades! <img src = "https://media.tenor.com/L4TD4MWFy40AAAAj/kirby.gif" width="40px"/>
 
 ## 🔍Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-renato-haua-885b62234/)
